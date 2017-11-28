@@ -1,0 +1,11 @@
+
+
+.lista{margin:0 auto;
+}
+
+.rojo{color:red;}
+.borrar{margin-left: 20px;}
+.tachado{ text-decoration: line-through; }
+.destachado{
+	text-decoration: none;
+}
