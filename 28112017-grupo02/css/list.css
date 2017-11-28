@@ -1,0 +1,45 @@
+*{
+	/*border: 1px solid black;*/
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Kalam', cursive;
+	background: url(../img/1400x873-wallpaper.jpg) no-repeat;
+	font-size: 1.2em;
+	color: rgba(180, 49, 38, 1);
+}
+
+section{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: rgba(218, 247, 166, 0.7);
+}
+
+article{
+	width: 32%;
+}
+
+li{
+   display: flex;
+   justify-content: space-between; 
+}
+
+form{
+	display: flex;
+	flex-direction: column;
+}
+
+
+button{
+	font-family: 'Kalam', cursive !important;
+}
+
+.myRed{
+	color: red;
+}
+
+.underline{
+	text-decoration: line-through;
+}
